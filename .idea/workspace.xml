@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c038e096-be95-41ca-a4ce-c5e438b71521" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eTapzFs7wRUHLcElIct5g2z41p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\Documents\Veltec" />
+      <recent name="C:\Users\Gabriel\Documents\Veltec\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel\Documents\Veltec\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MovieServiceImplTest">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.veltec.skywalter.Application" />
+      <module name="Veltec" />
+      <option name="VM_PARAMETERS" value="-Duser.name=postgres  -Duser.password=123456  -Ddatabase.url=jdbc:postgresql://localhost:5432/" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.veltec.skywalter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="VM_PARAMETERS" value="-Duser.name=postgres  -Duser.password=123456  -Ddatabase.url=jdbc:postgresql://localhost:5432/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Veltec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.veltec.skywalter.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.veltec.skywalter.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.veltec.skywalter.service.impl.MovieServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieServiceImplTest.testaPutMovies_RetornaErro_QuandoNaoExistirMovie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Veltec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.veltec.skywalter.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.veltec.skywalter.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="br.com.veltec.skywalter.service.impl.MovieServiceImplTest" />
+      <option name="METHOD_NAME" value="testaPutMovies_RetornaErro_QuandoNaoExistirMovie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="veltec" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="veltec" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MovieServiceImplTest" />
+        <item itemvalue="JUnit.MovieServiceImplTest.testaPutMovies_RetornaErro_QuandoNaoExistirMovie" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c038e096-be95-41ca-a4ce-c5e438b71521" name="Default Changelist" comment="" />
+      <created>1594348223921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594348223921</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="49" key="#Application" timestamp="1594592683060">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="417" y="49" key="#Application/0.0.1440.860@0.0.1440.860" timestamp="1594592683060" />
+    <state x="460" y="298" key="#Project_Settings" timestamp="1594583268314">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="460" y="298" key="#Project_Settings/0.0.1440.860@0.0.1440.860" timestamp="1594583268314" />
+    <state x="200" y="4" key="#Project_Structure" timestamp="1594592314528">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="4" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1594592314528" />
+    <state x="124" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594592703895">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="124" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1594592703895" />
+    <state x="92" y="92" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594586728255">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="92" y="92" width="1256" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.860@0.0.1440.860" timestamp="1594586728255" />
+    <state x="525" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1594579377742">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1594579377742" />
+    <state x="265" y="266" width="857" height="594" key="#xdebugger.evaluate" timestamp="1594585492167">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="265" y="266" width="857" height="594" key="#xdebugger.evaluate/0.0.1440.860@0.0.1440.860" timestamp="1594585492167" />
+    <state x="521" y="189" key="FileChooserDialogImpl" timestamp="1594350160068">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="521" y="189" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1594350160068" />
+    <state width="1397" height="235" key="GridCell.Tab.0.bottom" timestamp="1594593427026">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1594593427026" />
+    <state width="1397" height="235" key="GridCell.Tab.0.center" timestamp="1594593427026">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1594593427026" />
+    <state width="1397" height="235" key="GridCell.Tab.0.left" timestamp="1594593427026">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1594593427026" />
+    <state width="1397" height="235" key="GridCell.Tab.0.right" timestamp="1594593427026">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="235" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1594593427026" />
+    <state width="1397" height="284" key="GridCell.Tab.1.bottom" timestamp="1594592264994">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="284" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1594592264994" />
+    <state width="1397" height="284" key="GridCell.Tab.1.center" timestamp="1594592264994">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="284" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1594592264994" />
+    <state width="1397" height="284" key="GridCell.Tab.1.left" timestamp="1594592264993">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="284" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1594592264993" />
+    <state width="1397" height="284" key="GridCell.Tab.1.right" timestamp="1594592264994">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="284" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1594592264994" />
+    <state x="250" y="85" key="Maven.ArtifactSearchDialog" timestamp="1594589559484">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="250" y="85" key="Maven.ArtifactSearchDialog/0.0.1440.860@0.0.1440.860" timestamp="1594589559484" />
+    <state x="221" y="9" key="SettingsEditor" timestamp="1594350287821">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="9" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1594350287821" />
+    <state width="728" height="438" key="XDebugger.FullValuePopup" timestamp="1594534384006">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="728" height="438" key="XDebugger.FullValuePopup/0.0.1440.860@0.0.1440.860" timestamp="1594534384006" />
+    <state x="421" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1594350017514">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="421" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1594350017514" />
+    <state x="427" y="29" width="585" height="801" key="find.popup" timestamp="1594592835159">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="29" width="585" height="801" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1594592835159" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1594353780548">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1440.860@0.0.1440.860" timestamp="1594353780548" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1594533697981">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1594533697981" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1594589127507">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1594589127507" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/veltec/skywalter/controller/MovieController.java</url>
+          <line>36</line>
+          <properties class="br.com.veltec.skywalter.controller.MovieController" method="updateById">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/br/com/veltec/skywalter/service/impl/MovieServiceImplTest.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo$MovieServiceImplTest.ic" NAME="MovieServiceImplTest Coverage Results" MODIFIED="1594584956141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.veltec.skywalter.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/demo$All_in_veltec.ic" NAME="All in veltec Coverage Results" MODIFIED="1594592131240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demo$MovieServiceImplTest_testaGetLetterMetrics_RetornaLista.ic" NAME="MovieServiceImplTest.testaGetLetterMetrics_RetornaLista Coverage Results" MODIFIED="1594585596321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.veltec.skywalter.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/demo$MovieServiceImplTest_retornaUmFilme_QuandoEnviarOId.ic" NAME="MovieServiceImplTest.retornaUmFilme_QuandoEnviarOId Coverage Results" MODIFIED="1594580776716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.veltec.skywalter.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/demo$MovieServiceImplTest_testaPutMovies_RetornaUmMovie_QuandoAlterarRating.ic" NAME="MovieServiceImplTest.testaPutMovies_RetornaUmMovie_QuandoAlterarRating Coverage Results" MODIFIED="1594592191187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.veltec.skywalter.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Veltec$MovieServiceImplTest.ic" NAME="MovieServiceImplTest Coverage Results" MODIFIED="1594593290939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.veltec.skywalter.service.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/demo$MovieServiceImplTest_testaGetListMovies_RetornaSucesso.ic" NAME="MovieServiceImplTest.testaGetListMovies_RetornaSucesso Coverage Results" MODIFIED="1594579738438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.veltec.skywalter.service.impl.*</FILTER>
+    </SUITE>
+  </component>
+</project>
